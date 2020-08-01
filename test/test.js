@@ -99,7 +99,7 @@ describe('BST', () => {
             expect(emptyTree.searchIter(10)).to.equal(false);
         });
 
-        it('should not be iterative, not recursive', () => {
+        it('should be iterative, not recursive', () => {
             spy.on(tree, 'searchIter');
             tree.searchIter(7);
             expect(tree.searchIter).to.have.been.called.once;
