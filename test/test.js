@@ -124,10 +124,10 @@ describe('BST', () => {
 });
 
 
-describe('BONUS: Leet Code #108', () => {
-    it('https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/')
+describe('Leet Code #108', () => {
+    it('BONUS: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/')
 });
 
-describe('BONUS: Leet Code #110', () => {
-    it('https://leetcode.com/problems/balanced-binary-tree/')
+describe('Leet Code #110', () => {
+    it('BONUS: https://leetcode.com/problems/balanced-binary-tree/')
 });
