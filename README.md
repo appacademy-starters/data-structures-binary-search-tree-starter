@@ -16,7 +16,9 @@ Keep making the top-most test pass until all tests pass.
 * `npm test` to run the specs
 * You can view the test cases in `test/test.js`. Your job is to write code in
   * **lib/bst.js** to implement the `BST` class
-  * **lib/leet_code_108.js** as a scratch pad to work on the LeetCode.com
+  * **BONUS: problems/04-leet-code-110.js** as a scratch pad to work on the LeetCode.com
+  problem at https://leetcode.com/problems/balanced-binary-tree/
+  * **BONUS: problems/05-leet-code-108.js** as a scratch pad to work on the LeetCode.com
     problem at https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
-  * **lib/leet_code_110.js** as a scratch pad to work on the LeetCode.com
-    problem at https://leetcode.com/problems/balanced-binary-tree/
+  * **BONUS: problems/06-leet-code-450.js** as a scratch pad to work on the LeetCode.com
+    problem at https://leetcode.com/problems/delete-node-in-a-bst/
